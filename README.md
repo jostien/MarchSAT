@@ -24,7 +24,7 @@ Miscellaneous
 Tested on an Ubuntu 12.04 64bit and two AMD HD9770 GPUs as well as on an Ubuntu 14.04
 64 bit with Intel i7 CPU.
 
-Code contains redundant parts and surly several bugs.
+Code contains redundant parts and surely several bugs.
 
 Example for Intel i7 CPU
 ------------------------
