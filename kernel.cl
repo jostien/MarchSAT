@@ -1,4 +1,4 @@
-/* MarchSAT, Copyright (c) 2003 Jost Neigenfind <jostie@gmx.de>
+/* MarchSAT, Copyright (c) 2016 Jost Neigenfind <jostie@gmx.de>
  * WalkSAT for GPUs
  *
  * This program is free software; you can redistribute it and/or modify
